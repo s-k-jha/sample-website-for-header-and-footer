@@ -1,0 +1,71 @@
+header {
+    border-style: solid;
+    text-align: end;
+    background: black;
+    height: 100%;
+    font-size: xx-large;
+    box-sizing: border-box;
+
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    display: inline-block;
+
+}
+
+#About {
+    border-style: double;
+    background-color: aqua;
+
+}
+
+#Team {
+    border-style: double;
+    background-color: aqua;
+}
+
+#salary {
+    border-style: double;
+    background-color: aqua;
+}
+
+#contact {
+    border-style: double;
+    background-color: aqua;
+}
+
+.logo {
+    color: purple;
+    background: aqua;
+    border: double;
+
+
+
+}
+
+p {
+    font-size: x-large;
+}
+
+footer {
+    border-style: solid;
+    background: black;
+    color: white;
+    height: 100%;
+    text-align: center;
+
+
+}
+
+.footercontent {
+    display: inline-flex;
+    font-size: xx-large;
+
+}
